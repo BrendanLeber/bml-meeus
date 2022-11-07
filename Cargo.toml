@@ -1,0 +1,14 @@
+[package]
+name = "bml_meeus"
+version = "0.1.0"
+edition = "2021"
+authors = ["Brendan Leber <brendan@brendanleber.com>"]
+description = "My implementation of Jean Meeus' book Astronomical Algorithms."
+readme = "README.md"
+repository = "https://github.com/BrendanLeber/bml-meeus"
+license = "MIT"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
